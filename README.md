@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 
-- [GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/)
++ [GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/)
 - [Building a React App with GitHub Copilot]()
 - [GitHub for Beginners: Test-driven development(TDD) with GitHub Copilot]()
 - [GitHub for Beginners: Security best practices with GitHub Copilot]()
